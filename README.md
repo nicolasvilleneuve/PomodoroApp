@@ -1,7 +1,7 @@
 ## PomodoroApp
 
 
-Description
+## Description
 The following app is very straight forward. 
 You simply run the code, which will in turn, launch a GUI. 
 At the center of the GUI is a timer, which will begin a timer, counting down from 25 minutes.
@@ -13,13 +13,13 @@ The app does not have a database attached and, as such, restarting the app will 
 For more information on the Pomodoro Technique, you may refer to the following wikipedia entry:
 https://en.wikipedia.org/wiki/Pomodoro_Technique#:~:text=The%20Pomodoro%20Technique%20is%20a,length%2C%20separated%20by%20short%20breaks.
 
-Usage
+## Usage
 You can freely access this app so long as you have a version of python 3 (this was made in python 3.9.1), the tkinter module, and the images from the images folder of the presenr repository. With those, you should simply be able to run the code and have a visually-appeasing timer to hold you accountable for/encourage your productivity. 
 
-Contributing
+## Contributing
 If you would like to create a PULL request, please feel free. Whether the intent be to pilfer from the code as you like some elements of the app, or to suggest improvements, you are most welcome to. If the changes are to be major, however, please open an issue first so we can discuss if/what you would like to change. Should you have a problem in doing so, please feel free to let me know (my email is on my website so please find it there in case it has changed since writing this).
 
-License
+##License
 MIT License
 
 Copyright (c) 2021 Nicolas Villeneuve
