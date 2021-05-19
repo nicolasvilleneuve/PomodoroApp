@@ -19,7 +19,7 @@ You can freely access this app so long as you have a version of python 3 (this w
 ## Contributing / Support
 If you would like to create a PULL request, please feel free. Whether the intent be to pilfer from the code as you like some elements of the app, or to suggest improvements, you are most welcome to. If the changes are to be major, however, please open an issue first so we can discuss if/what you would like to change. Should you have a problem in doing so, please feel free to let me know (my email is on my website so please find it there in case it has changed since writing this).
 
-##License
+## License
 MIT License
 
 Copyright (c) 2021 Nicolas Villeneuve
